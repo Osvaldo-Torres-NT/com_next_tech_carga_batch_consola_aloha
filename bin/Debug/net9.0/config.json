@@ -1,0 +1,9 @@
+{
+    "logs": "D://CargaBatchConsolaAloha//logs//",
+    "success": "D://CargaBatchConsolaAloha//success//",
+    "open": "D://CargaBatchConsolaAloha//open//",
+    "files": "D://CargaBatchConsolaAloha//",
+    "reports": "D://CargaBatchConsolaAloha//reports//",
+    "urlTraductor": "https://localhost:7053/api/",
+    "maxtTimeout": 600
+}
